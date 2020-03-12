@@ -7,7 +7,7 @@ driver:
   associate_public_ip: true
   # aws_ssh_key_id: james-murphy-eng53-ire-key
   transport:
-    ssh_key: ~/.ssh/alpha-team-eng53-ire-key.pem
+    ssh_key: ~/.ssh/james-murphy-eng53-ire-key.pem
 
 ## The forwarded_port port feature lets you connect to ports on the VM guest via
 ## localhost on the host.
